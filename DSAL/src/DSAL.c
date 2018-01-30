@@ -12,6 +12,6 @@
 #include <stdlib.h>
 
 int main(void) {
-	puts("Hello DSAL"); /* Wyświetla tekst */
+	puts("Hello World"); /* Wyświetla tekst */
 	return EXIT_SUCCESS;
 }

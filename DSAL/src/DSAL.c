@@ -13,5 +13,6 @@
 
 int main(void) {
 	puts("Hello World"); /* Wyświetla tekst Hello World */
+	//Jakaś zmiana 2018-02-01 2243
 	return EXIT_SUCCESS;
 }

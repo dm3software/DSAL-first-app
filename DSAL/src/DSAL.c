@@ -19,5 +19,6 @@ int main(void) {
 	//Stworzenie gałęzi pierwszej
 	//Zmiana w nowej gałęzi
 	// 03-02-2018 g. 23:29
+
 	return EXIT_SUCCESS;
 }

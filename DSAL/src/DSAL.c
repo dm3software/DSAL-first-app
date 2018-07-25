@@ -14,8 +14,9 @@
 int main(void) {
 	puts("Hello World"); /* Wyświetla tekst Hello World */
 	puts("Hi Guy!!!"); //change in 21-07-2018 by Darco100
-	puts("This is my next change 25.07.2018");
-	// next change
+	puts("This is my next change 25.07.2018"); // next change
+	puts("This is my next change night 25.07.2018"); // next change
+
 
 	//Jakaś zmiana 2018-02-01 2243
 	//Zmiana 2018-02-01 2309
